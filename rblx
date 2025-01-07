@@ -4,7 +4,7 @@ getgenv().Depart = {
     },
     cameralock = {
         On = true,
-        Key = "C",
+        Key = "E",
         UseAirShot = true,
         EasingStyles = Enum.EasingStyle.Exponential,
         Part = "HumanoidRootPart",
